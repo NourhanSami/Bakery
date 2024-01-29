@@ -1,0 +1,92 @@
+body{
+    overflow-x: hidden;
+}
+.nav-item{
+
+    margin-left: 50px;
+    
+
+}
+
+
+.navbar-nav{
+    margin-left: 300px;
+    
+}
+
+.img1{
+    /* opacity: 0.9; */
+    margin-top: -100px;
+}
+
+.nav-link{
+    font-size: 20px;
+    color: white;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-family: cursive;
+
+}
+
+.btn1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 450px;
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    border: 2px solid burlywood;
+    color: burlywood;
+    font-size: 20px;
+}
+
+.btn2{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 30px;
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: burlywood;
+    font-size: 20px;
+    color: black;
+
+}
+
+.btn1:hover{
+
+    border-radius: 10px;
+    background-color: burlywood;
+    color: black;
+    font-size: 20px;
+}
+
+.btn2:hover{
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    color: burlywood;
+    background-color: transparent
+
+}
+
+.text{
+    text-align: center;
+    color: wheat;
+    margin-top: -600px;
+}
+
+.card{
+    border: none;
+}
+
+.col img{
+    width: 650px;
+    height: 600px;
+}
+
+.card-body p{
+ font-size: 20px;
+}
+
